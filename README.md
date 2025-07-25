@@ -1,10 +1,8 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100px"><br>
-
-
-
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="100%" alt="Professional Banner">
 </p>
+
 
 <h1 align="center">👋 <span style="display:inline-block;animation:bounce 1s infinite;">Hey there!</span> I'm <span style="color:#0099ff">Balaji Hariharan N S</span></h1>
 
@@ -76,35 +74,20 @@
 ### 📫 Contact Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100px"><br>
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px"><br>
   <strong>Email:</strong> balajihariharanns@gmail.com<br>
   <strong>Phone:</strong> +91 87548 87575<br>
   <strong>GitHub:</strong> [balajihariharan01](https://github.com/balajihariharan01)
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balajihariharan01&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajihariharan01&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajihariharan01&layout=compact&theme=radical" width="40%" />
-</p>
 
 ---
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=balajihariharan01&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
 
 <!-- Bouncing Text Animation (Optional: works only in GitHub Pages or rendered HTML) -->
-<style>
-@keyframes bounce {
-  0%, 100% { transform: translateY(0px); }
-  50% { transform: translateY(-8px); }
-}
-</style>
+
