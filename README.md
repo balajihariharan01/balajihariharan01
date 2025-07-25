@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s)](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" width="60%" alt="Coding Animation">
+  <img src="[[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s)](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&psig=AOvVaw2hpjMQtoL0P0B6VvKjArjW&ust=1753507247998000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjlj_yh144DFQAAAAAdAAAAABAL)" width="60%" alt="Coding Animation">
 </p>
 
 <h1 align="center">👋 <span style="display:inline-block;animation:bounce 1s infinite;">Hey there!</span> I'm <span style="color:#0099ff">Balaji Hariharan N S</span></h1>
