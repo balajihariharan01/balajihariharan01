@@ -1,6 +1,6 @@
 <!-- Header GIF -->
 <p align="center">
-  <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s)" width="60%" alt="Coding Animation">
+  <img src="[[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNUvPwcjrYNWQG10Chtdy23kd9_dJTmL_M9w&s)](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)" width="60%" alt="Coding Animation">
 </p>
 
 <h1 align="center">👋 <span style="display:inline-block;animation:bounce 1s infinite;">Hey there!</span> I'm <span style="color:#0099ff">Balaji Hariharan N S</span></h1>
