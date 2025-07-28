@@ -8,7 +8,7 @@
 </h1>
 
 <p align="center">
-  🎓 MCA @ Kongu Engineering College | B.Sc. IT Graduate<br>
+  🎓 MCA @ Kongu Engineering College | B.Sc. IT Graduate @ PSGCAS<br>
   💻 Java Developer | Backend Enthusiast | Problem Solver
 </p>
 
