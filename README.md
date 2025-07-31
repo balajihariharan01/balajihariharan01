@@ -9,7 +9,7 @@
 
 <p align="center">
   🎓 MCA @ Kongu Engineering College | B.Sc. IT Graduate @ PSGCAS<br>
-  💻 Java Developer | Backend Enthusiast | Problem Solver
+  💻 Software Developer | frontend Developer | Problem Solver
 </p>
 
 <p align="center">
