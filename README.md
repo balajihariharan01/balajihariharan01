@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  👋 Hello, I'm <span style="color:#1e90ff"><b>Balaji Hariharan N S</b></span>
+  👋 Hello, I'm <span style="color:#1e90ff"><b>BALAJI HARIHARAN N S</b></span>
 </h1>
 
 <p align="center">
