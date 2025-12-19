@@ -4,8 +4,10 @@
 
 <p align="center">
   <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true"
-       width="50%" alt="Developer Animation"/>
+       width="400"
+       alt="Developer Animation"/>
 </p>
+
 
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00BFFF"><b>BALAJI HARIHARAN N S</b></span>
@@ -27,9 +29,11 @@
   <a href="https://www.linkedin.com/in/balajihariharanns/">
     <img src="https://img.shields.io/badge/LinkedIn-Balaji%20Hariharan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  <br>
   <a href="https://github.com/balajihariharan01">
     <img src="https://img.shields.io/badge/GitHub-balajihariharan01-black?style=for-the-badge&logo=github"/>
   </a>
+  <br>
   <a href="https://leetcode.com/u/balajihariharan/">
     <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
   </a>
