@@ -24,7 +24,7 @@
   <a href="mailto:balajihariharanns@gmail.com">
     <img src="https://img.shields.io/badge/Email-balajihariharanns@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/n-s-balaji-hariharan-28109a24a/">
+  <a href="https://www.linkedin.com/in/balajihariharanns/">
     <img src="https://img.shields.io/badge/LinkedIn-Balaji%20Hariharan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://github.com/balajihariharan01">
