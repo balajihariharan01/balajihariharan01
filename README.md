@@ -1,103 +1,145 @@
-<!-- Header GIF -->
+<!-- ========================================================= -->
+<!--                    HERO / BANNER                         -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true" width="40%" alt="Professional Banner">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif?raw=true"
+       width="50%" alt="Developer Animation"/>
 </p>
 
 <h1 align="center">
-  👋 Hello, I'm <span style="color:#1e90ff"><b>BALAJI HARIHARAN N S</b></span>
+  👋 Hi, I'm <span style="color:#00BFFF"><b>BALAJI HARIHARAN N S</b></span>
 </h1>
 
+<h3 align="center">
+  🚀 Software Developer | 💻 Frontend Developer | 🧠 Problem Solver
+</h3>
+
 <p align="center">
-  🎓 MCA @ Kongu Engineering College | B.Sc. IT Graduate @ PSGCAS<br>
-  💻 Software Developer | frontend Developer | Problem Solver
+  🎓 <b>MCA</b> @ Kongu Engineering College &nbsp;|&nbsp;
+  <b>B.Sc IT</b> @ PSG College of Arts & Science
 </p>
 
 <p align="center">
-  <a href="mailto:balajihariharanns@gmail.com" title="Email Me">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:balajihariharanns@gmail.com">
+    <img src="https://img.shields.io/badge/Email-balajihariharanns@gmail.com-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/n-s-balaji-hariharan-28109a24a/" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/n-s-balaji-hariharan-28109a24a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Balaji%20Hariharan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://github.com/balajihariharan01" title="Check out my GitHub repositories">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://github.com/balajihariharan01">
+    <img src="https://img.shields.io/badge/GitHub-balajihariharan01-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://leetcode.com/u/balajihariharan/" title="Visit my LeetCode profile">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  <a href="https://leetcode.com/u/balajihariharan/">
+    <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
-## 🌟 About Me
+## 🌟 ABOUT ME
 
-- 🔭 Currently exploring **Spring Boot** & **REST APIs**
-- ☁️ Learning **Cloud Computing (AWS)**
-- 👯 Open to collaborate on **Java + React** full-stack projects
-- ⚡ Fun Fact: I genuinely enjoy debugging!
+✨ Passionate **Software Developer** with strong foundations in  
+**Java, Python, JavaScript, MERN Stack & Cloud Computing**
+
+🔹 I love building **scalable**, **clean**, and **user-friendly applications**  
+🔹 Strong focus on **problem-solving**, **debugging**, and **optimization**  
+🔹 Comfortable working in both **Frontend & Backend**
 
 ---
 
-## 🛠️ Tech Stack
+## 🔥 CURRENT FOCUS
 
-### 🧑‍💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java" title="Java" height="45"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" height="45"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" height="45"/>
-</p>
+- 🔭 Exploring **Spring Boot & RESTful APIs**
+- ☁️ Learning **AWS (EC2, S3, Cloud Basics)**
+- 👯 Open to collaborate on **Java + React / MERN Stack**
+- 🧪 Practicing **DSA & LeetCode**
+- ⚡ Fun Fact: *Debugging feels like solving puzzles 🧩*
 
-### 🌐 Frontend & Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS" height="45"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" height="45"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" height="45"/>
-</p>
+---
 
-### ⚙️ Tools, IDEs & Cloud
+## 🧰 TECH STACK (HIGHLIGHTED)
+
+### 🧑‍💻 PROGRAMMING LANGUAGES
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" title="Git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="Visual Studio Code" height="45"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse IDE" height="45"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="Amazon Web Services" height="45"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=c" title="C"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🔋 **Energy Forecasting (LSTM)** | Predicting energy usage using Python & TensorFlow |
-| 📚 **Student Management System** | Java-based CRUD desktop application |
-| 🍽️ **Recipe Retrieval System** | Personalized recipe suggestions using the MERN stack |
-| 🛍️ **Fashion Haven** | Frontend for a clothing e-commerce site |
-
----
-
-## 🏆 Certifications
-
-- ✅ GitHub Foundations  
-- 🧪 Software Testing Fundamentals  
-- 🛠️ Backend Development & Version Control (Ongoing)
+### 🌐 FRONTEND & BACKEND
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=react" title="ReactJS"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+</p>
 
 ---
 
-## 📫 Let's Connect
+### ⚙️ TOOLS, IDEs & CLOUD
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
+  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+</p>
+
+---
+
+## 🚀 FEATURED WORK
+
+| 🔥 Project | 🚀 Highlights |
+|-----------|---------------|
+| 🔋 **Energy Consumption Forecasting (LSTM)** | Time-series prediction using **Python, TensorFlow, LSTM** |
+| 📚 **Student Management System** | **Java + JDBC + MySQL** CRUD desktop application |
+| 🍽️ **Recipe Retrieval System** | **MERN Stack** personalized recommendation platform |
+| 🛍️ **Fashion Haven** | Responsive **E-commerce Frontend** using HTML & CSS |
+
+---
+
+## 🏆 CERTIFICATIONS & ACHIEVEMENTS
+
+✅ **GitHub Foundations**  
+🧪 **Software Testing Fundamentals**  
+🛠️ **Backend Development & Version Control**  
+📈 Active **LeetCode Problem Solver**
+
+---
+
+## 📊 GITHUB STATS (AUTO-UPDATED)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100px" /><br><br>
-  📧 <b>Email:</b> <a href="mailto:balajihariharanns@gmail.com" title="Send me an email">balajihariharanns@gmail.com</a><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=balajihariharan01&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balajihariharan01&theme=tokyonight"/>
+</p>
+
+---
+
+## 📫 CONTACT ME
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="130"/><br><br>
+  📧 <b>Email:</b> <a href="mailto:balajihariharanns@gmail.com">balajihariharanns@gmail.com</a><br>
   📞 <b>Phone:</b> +91 87548 87575<br>
-  🐙 <b>GitHub:</b> <a href="https://github.com/balajihariharan01" title="Visit my GitHub profile">balajihariharan01</a>
+  🌐 <b>Portfolio:</b> <a href="https://balajihariharanns.vercel.app/">balajihariharanns.vercel.app</a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balajihariharan01&label=Profile%20Views&color=00CED1&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=balajihariharan01&label=Profile%20Views&color=00BFFF&style=flat"/>
+</p>
+
+<p align="center">
+  💙 <b>Thanks for visiting my profile — Happy Coding!</b>
 </p>
