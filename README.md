@@ -8,18 +8,17 @@
        alt="Developer Animation"/>
 </p>
 
-
 <h1 align="center">
   👋 Hi, I'm <span style="color:#00BFFF"><b>BALAJI HARIHARAN N S</b></span>
 </h1>
 
 <h3 align="center">
-  🚀 Software Developer | 💻 Frontend Developer | 🧠 Problem Solver
+  🚀 Software Engineer | 💻 Full-Stack Developer | ☕ Java/Python Developer
 </h3>
 
 <p align="center">
-  🎓 <b>MCA</b> @ Kongu Engineering College &nbsp;|&nbsp;
-  <b>B.Sc IT</b> @ PSG College of Arts & Science
+  🎓 <b>MCA (CGPA: 8.59)</b> – Kongu Engineering College <br>
+  🎓 <b>B.Sc IT (CGPA: 8.2)</b> – PSG College of Arts & Science
 </p>
 
 <p align="center">
@@ -43,97 +42,119 @@
 
 ## 🌟 ABOUT ME
 
-✨ Passionate **Software Developer** with strong foundations in  
-**Java, Python, JavaScript, MERN Stack & Cloud Computing**
+Motivated **Software Engineer** with strong expertise in:
 
-🔹 I love building **scalable**, **clean**, and **user-friendly applications**  
-🔹 Strong focus on **problem-solving**, **debugging**, and **optimization**  
-🔹 Comfortable working in both **Frontend & Backend**
+✔ Java & Spring Ecosystem  
+✔ Python Development  
+✔ MERN Stack (MongoDB, Express, React, Node.js)  
+✔ SQL & Database Design  
 
----
+I focus on:
 
-## 🔥 CURRENT FOCUS
-
-- 🔭 Exploring **Spring Boot & RESTful APIs**
-- ☁️ Learning **AWS (EC2, S3, Cloud Basics)**
-- 👯 Open to collaborate on **Java + React / MERN Stack**
-- 🧪 Practicing **DSA & LeetCode**
-- ⚡ Fun Fact: *Debugging feels like solving puzzles 🧩*
+- Writing clean, maintainable, scalable code
+- Building secure RESTful APIs
+- Implementing role-based authentication systems
+- Optimizing performance and system efficiency
+- Contributing effectively in collaborative engineering teams
 
 ---
 
-## 🧰 TECH STACK (HIGHLIGHTED)
+## 🔥 TECHNICAL SKILLS
 
-### 🧑‍💻 PROGRAMMING LANGUAGES
+### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
-  <img src="https://skillicons.dev/icons?i=c" title="C"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  <img src="https://skillicons.dev/icons?i=python"/>
+  <img src="https://skillicons.dev/icons?i=c"/>
+  <img src="https://skillicons.dev/icons?i=cs"/>
+  <img src="https://skillicons.dev/icons?i=php"/>
+  <img src="https://skillicons.dev/icons?i=js"/>
 </p>
 
 ---
 
-### 🌐 FRONTEND & BACKEND
+### 🌐 Web Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=react" title="ReactJS"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJS"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=html"/>
+  <img src="https://skillicons.dev/icons?i=css"/>
+  <img src="https://skillicons.dev/icons?i=react"/>
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+  <img src="https://skillicons.dev/icons?i=express"/>
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ---
 
-### ⚙️ TOOLS, IDEs & CLOUD
+### ⚙️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
-  <img src="https://skillicons.dev/icons?i=aws" title="AWS"/>
+  <img src="https://skillicons.dev/icons?i=git"/>
+  <img src="https://skillicons.dev/icons?i=github"/>
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+  <img src="https://skillicons.dev/icons?i=eclipse"/>
+  <img src="https://skillicons.dev/icons?i=aws"/>
 </p>
 
 ---
 
-## 🚀 FEATURED WORK
+## 🚀 FEATURED PROJECTS
 
-| 🔥 Project | 🚀 Highlights |
-|-----------|---------------|
-| 🔋 **Energy Consumption Forecasting (LSTM)** | Time-series prediction using **Python, TensorFlow, LSTM** |
-| 📚 **Student Management System** | **Java + JDBC + MySQL** CRUD desktop application |
-| 🍽️ **Recipe Retrieval System** | **MERN Stack** personalized recommendation platform |
-| 🛍️ **Fashion Haven** | Responsive **E-commerce Frontend** using HTML & CSS |
-
----
-
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
-
-✅ **GitHub Foundations**  
-🧪 **Software Testing Fundamentals**  
-🛠️ **Backend Development & Version Control**  
-📈 Active **LeetCode Problem Solver**
+### 🏗 Smart Construction Materials Management System
+- Built scalable MERN e-commerce platform
+- Implemented JWT authentication & role-based access control
+- Developed secure RESTful CRUD APIs
+- Real-time inventory & order management dashboard
 
 ---
 
+### ☕ Smart Billing Sales Management System (POS for Café)
+- Production-ready MERN stack billing system
+- Real-time sales analytics dashboard
+- Secure authentication with JWT
+- Thermal receipt generation integration
 
+---
 
-## 📫 CONTACT ME
+### 🍲 Recipe Retrieval System
+- Personalized recipe recommendation platform
+- Preference-based filtering system
+- Dynamic UI with React
+- RESTful API integration using Node.js
+
+---
+
+### 🎓 Student Management System
+- Java Desktop Application using JDBC & MySQL
+- Role-based login system
+- Secure CRUD operations
+- Admin dashboard for inventory management
+
+---
+
+## 🏆 CERTIFICATIONS
+
+✅ GitHub Foundations  
+✅ Software Testing Fundamentals  
+
+---
+
+## 📌 ADDITIONAL INFORMATION
+
+- 🌍 Languages: English, Tamil  
+- 🤝 Soft Skills: Problem Solving, Team Collaboration, Time Management  
+
+---
+
+## 📫 CONTACT
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="130"/><br><br>
-  📧 <b>Email:</b> <a href="mailto:balajihariharanns@gmail.com">balajihariharanns@gmail.com</a><br>
-  📞 <b>Phone:</b> +91 87548 87575<br>
-  🌐 <b>Portfolio:</b> <a href="https://balajihariharanns.vercel.app/">balajihariharanns.vercel.app</a>
+  📧 <b>Email:</b> balajihariharanns@gmail.com <br>
+  📞 <b>Phone:</b> +91 8754887575 <br>
+  🌐 <b>Portfolio:</b> https://balajihariharanns.vercel.app/
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=balajihariharan01&label=Profile%20Views&color=00BFFF&style=flat"/>
-</p>
-
-<p align="center">
-  💙 <b>Thanks for visiting my profile — Happy Coding!</b>
+  💙 Thanks for visiting my profile — Let’s build something amazing!
 </p>
