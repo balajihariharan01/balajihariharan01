@@ -44,9 +44,9 @@
 
 Motivated **Software Engineer** with strong expertise in:
 
-✔ Java & Spring Ecosystem  
-✔ Python Development  
 ✔ MERN Stack (MongoDB, Express, React, Node.js)  
+✔ Java Ecosystem  
+✔ Python Development  
 ✔ SQL & Database Design  
 
 I focus on:
